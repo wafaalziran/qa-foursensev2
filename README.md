@@ -25,7 +25,8 @@ source venv/bin/activate
 4. Install dependencies
 pip install -r requirements.txt
 pip install selenium pytest pytest-html
-== [[▶ Menjalankan Test]] ==
+
+== [[ Run Test]] ==
 
 Pastikan aplikasi frontend berjalan:
 
