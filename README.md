@@ -10,7 +10,7 @@ ChromeDriver (sesuai versi Chrome)
 == [[Setup]] ==
 1. Clone repository
 git clone <repo-url>
-cd <clone>
+masuk kedalam cd clone
 2. Buat virtual environment
 python -m venv venv
 3. Aktifkan environment
