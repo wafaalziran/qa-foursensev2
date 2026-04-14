@@ -47,15 +47,18 @@ reports/report.html
 Buka file tersebut di browser untuk melihat hasil detail.
 
 == [[Test Coverage]] ==
+
 Login user
 Tambah task
 Checklist task
 Absensi siswa
 
 == [[Catatan]] ==
+
 Pastikan data-testid sudah tersedia di frontend (Opsional untuk stability)
 
 == [[Tech Stack]] ==
+
 Selenium
 Pytest
 Python
