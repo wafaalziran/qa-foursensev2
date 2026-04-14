@@ -26,7 +26,7 @@ def test_full_absence_flow():
         absence.go_to_absence_tab()
         absence.do_absen()
 
-        print("✅ FULL FLOW SUCCESS")
+        print("[+] TEST PASSED")
 
     finally:
         driver.quit()
